@@ -1,6 +1,7 @@
 - 👋 Hi, I’m sqjz.
 - 👀 I’m interested in math and physics.
 - 🌱 I’m currently learning c++.
+- QQ：3427422604
 
 <!---
 sqjzhit/sqjzhit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
